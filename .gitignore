@@ -1,0 +1,13 @@
+*.class
+
+HibernateTutorial.iml
+.idea/
+target/
+out/
+
+# Package Files #
+*.jar
+*.war
+
+
+
